@@ -21,5 +21,6 @@ select the best strategy that would work on 1000 loans.
 
 
 Acknowledgments:
+My team members - Jasmine Kaur and William Coggins
 Cohen MC, Guetta CD, Jiao K, Provost F. (2018) Data-driven investment strategies for peer-to-peer lending: a case study for teaching data science. Big Data 6:3, 191213, 
 DOI: 10.1089/ big.2018.0092.
