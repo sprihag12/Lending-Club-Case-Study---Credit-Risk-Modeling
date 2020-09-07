@@ -5,5 +5,5 @@ Phase 2: Intended to perform a preliminary analysis of data including cleaning, 
 Phase 3: Intended to employ predictive analytics to predict how likely a loan is to default.
 
 
-# Acknowledgements:
+Acknowledgements:
 Cohen MC, Guetta CD, Jiao K, Provost F. (2018) Data-driven investment strategies for peer-to-peer lending: a case study for teaching data science. Big Data 6:3, 191213, DOI: 10.1089/ big.2018.0092.
